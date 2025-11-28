@@ -37,7 +37,7 @@ fundamental text relating to CYBERSPAN ("Zeek", "Clustering", "Storage", and "Ag
 relating to the dashboard of CYBERSPAN ("Customizable", "Interpretable", "MITRE TTPs", "API"). Finally it
 directs the watcher to [cyberspan.us](https://cyberspan.us) to learn more.
 
-# How it Works and Next Steps
+# How it Works
 
 Manim does a lot of the interpolation for you to create the animation effects. All you really
 need to do is define the objects (as svgs, images, or basic shapes) and call animation methods on them.
@@ -45,8 +45,3 @@ For example, you can create a text object and then call the `write()` animation 
 writing effect to show the text on screen. Explore the [Manim documentation](https://docs.manim.community/en/stable/reference_index/animations.html)
 for more involved animations. You can also define waits that pause and runtimes for animations to control
 how quickly they change.
-
-There are a number of different [ai voiceover services](https://voiceover.manim.community/en/stable/services.html) that
-you can use as well. I think the ai voiceovers that are free aren't great so if you wanted to use this video in production I 
-would recommend recording a voiceover and layering it on top (you can do this through Manim, but it is probably simpler
-to use a separate recording/editing service).

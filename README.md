@@ -2,6 +2,8 @@
 
 Created by John - Summer 2025
 
+See the [webpage version](https://jdhooker.github.io/CYBERSPAN-Manim-Animation/) for the ability to click on and play videos.
+
 This repository's code creates a simple video that gives an overivew of CYBERSPAN using
 [Manim](https://www.manim.community/), a python animation library.
 
